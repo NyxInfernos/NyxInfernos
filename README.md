@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I wanted to become a pilot before
 
 <!---
 NyxInfernos/NyxInfernos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
